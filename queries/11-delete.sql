@@ -1,0 +1,1 @@
+-- delete only Justin Bieber from the artists table
